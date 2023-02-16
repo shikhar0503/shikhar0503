@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently diving deep into **Machine Learning, Time Series Forecasting, Deep Neural Networks, Computer Vision, AWS and Microsoft Azure.**
 
-- 👯 I’m looking to collaborate on **Open-Source Projects.**
+- 👯 I’m looking for **oppurtunities/job in data science field.**
 
 - 👨‍💻 I do write blogs which are available here **[Blogs](https://medium.com/@shikhark2000)**
 
